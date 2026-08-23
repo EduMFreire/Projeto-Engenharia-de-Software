@@ -5,7 +5,7 @@
   set heading(numbering: "1.")
 
   //set math.equation(align: start)
- //set page(height: auto)
+  //set page(height: auto)
 
   show block: b => align(left, b)
   //show "span": $"span"$

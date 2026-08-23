@@ -3,12 +3,18 @@
 
 #let title = [Descrição informal do projeto da cadeira]
 
+#let authors = [
+Carlos Augusto Bertão Rodrigues\
+Eduardo de Mendonça Freire\
+João Pedro Peçanha Cotrim\
+Marco Antonio Tronco Felix
+]
+
 #align(
   center,
   text(17pt, strong(title))
 )
-
-//#align(center, [Nome do grupo])
+#align(center, authors)
 
 = O problema
 Débora é líder do ministério infantil da igreja, que dá aulas sobre a Bíblia a crianças.
