@@ -5,6 +5,11 @@
             "label": "Compilar descrição informal",
             "type": "shell",
             "command": "typst compile ${workspaceFolder}\\1_DescricaoInformal\\descricao.typ",
-        }
+        },
+        {
+            "label": "Compilar index.html",
+            "type": "shell",
+            "command": "pandoc -s index.md -o index.html",
+        },
     ]
 }
