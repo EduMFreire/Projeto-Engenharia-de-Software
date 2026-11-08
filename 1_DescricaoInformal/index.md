@@ -1,4 +1,4 @@
-# Descrição informal do projeto da cadeira
+# Descrição Informal do Projeto da Cadeira
 - Carlos Augusto Bertão Rodrigues
 - Eduardo de Mendonça Freire
 - João Pedro Peçanha Cotrim
