@@ -1,6 +1,6 @@
 # Pirâmide do Valor
 ## Premissas
-Vamos analisar o projeto da perspectiva B2B. Isto é, vamos elencar os elementos de valor que mais podem levar uma igreja, enquanto organização a adotar o programa de gestão de escala de voluntários do ministério infantil.
+Vamos analisar o projeto da perspectiva B2B. Isto é, vamos elencar os elementos de valor que mais podem levar uma igreja, enquanto organização, a adotar o programa de gestão de escala de voluntários do ministério infantil.
 
 Afinal, se uma pessoa, enquanto cliente individual, quiser adotar o projeto, ela não necessariamente consegue: é necessário que todos os voluntários de forma padronizada instalem o programa.
 
