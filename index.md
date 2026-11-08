@@ -1,2 +1,3 @@
-- [Descrição informal](1_DescricaoInformal/index.md)
+- [Descrição Informal](1_DescricaoInformal/index.md)
+- [Partes Interessadas](https://docs.google.com/spreadsheets/d/1Q0r68NBfLcb6NNDPLZ5K9DTrjelBO22UMNcff2l2YeY/edit?usp=sharing)
 - [Pirâmide do Valor](2_PiramideValor/index.md)
