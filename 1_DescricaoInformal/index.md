@@ -1,29 +1,17 @@
-#import "formatting.typ": *
-#show: doc => format(doc)
+# Descrição informal do projeto da cadeira
+- Carlos Augusto Bertão Rodrigues
+- Eduardo de Mendonça Freire
+- João Pedro Peçanha Cotrim
+- Marco Antonio Tronco Felix
 
-#let title = [Descrição informal do projeto da cadeira]
-
-#let authors = [
-Carlos Augusto Bertão Rodrigues\
-Eduardo de Mendonça Freire\
-João Pedro Peçanha Cotrim\
-Marco Antonio Tronco Felix
-]
-
-#align(
-  center,
-  text(17pt, strong(title))
-)
-#align(center, authors)
-
-= O problema
+## O problema
 Débora é líder do ministério infantil da igreja, que dá aulas sobre a Bíblia à crianças.
 
 Há algumas classes, distribuídas entre três ocasiões (domingo de manhã, domingo à noite e quinta-feira à noite). Cada uma exije certa quantidade de professores. E há alguns professores voluntários.
 
 Todo mês, Débora precisa determinar quais voluntários serão responsáveis por cada classe em cada ocasião, de forma a atender à demanda de cada aula sem sobrecarregar nenhum voluntário.
 
-= Como isso é feito hoje
+## Como isso é feito hoje
 Em cada mês, os voluntários respondem uma enquete no WhatsApp indicando sua disponibilidade em cada dia. Com base nisso, Débora monta manualmente a escala (indicando quais são os voluntários responsáveis por cada aula), e envia aos voluntários no WhatsApp.
 
 O trabalho de montar a escala pode ser longo e tedioso, devido a uma série de restrições:
@@ -34,10 +22,10 @@ Encontrar uma escala viável (que satisfaça a demanda de todas as aulas) já po
 
 Débora costuma seguir critérios simples ao escolher entre as escalas viáveis, como um ranking de prioridade entre os voluntários, e um limite máximo de atuações por mês.
 
-= A demanda
+## A demanda
 Débora quer um sistema que automatize a montagem da escala com base nos critérios que ela definir. No fim das contas, caberá a ela apenas aprovar a escala, fazendo ajustes manuais quando desejar.
 
-== Funcionalidades adicionais
+## Funcionalidades adicionais
 O essencial é que o sistema monte a escala. Contudo, se Débora tiver todo mês que copiar a disponibilidade dos voluntários do WhatsApp para o sistema, e depois copiar a escala de volta do sistema para o WhatsApp, o sistema pode acabar não sendo útil de verdade.
 
 Por isso, Débora quer que o sistema seja um aplicativo completo, que tanto ela quanto os voluntários possam instalar. Ela terá no sistema o cargo de administradora (adm), responsável por aprovar a escala, enquanto cada voluntário será responsável por preencher sua disponibilidade.
