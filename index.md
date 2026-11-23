@@ -3,3 +3,4 @@
 - [Desejos das Partes Interessadas](3_DesejosPartesInteressadas/index.md)
 - [Pirâmide do Valor](2_PiramideValor/index.md)
 - [Histórias do Usuário](https://docs.google.com/spreadsheets/d/1Q0r68NBfLcb6NNDPLZ5K9DTrjelBO22UMNcff2l2YeY/edit?usp=sharing#gid=384281455)
+- [Gestão de Projeto](4_GestaoProjeto/index.md)
