@@ -1,0 +1,18 @@
+flowchart LR
+    A["A: Requisitos<br/>1 sem"] --> B["B: UI/UX<br/>1 sem"]
+    A --> C["C: BD e Arquitetura<br/>1 sem"]
+    C --> D["D: Usuários e Enquetes<br/>2 sem"]
+    C --> E["E: Motor de Escala<br/>3 sem"]
+    D --> F["F: Edição manual, a definir e Drive<br/>1 sem"]
+    B --> G["G: Front Voluntário<br/>2 sem"]
+    D --> G
+    B --> H["H: Front Adm<br/>2 sem"]
+    E --> H
+    F --> H
+    D --> I["I: Notificações<br/>2 sem"]
+    E --> I
+    F --> I
+    G --> J["J: Testes e QA<br/>2 sem"]
+    H --> J
+    I --> J
+    J --> K["K: Deploy e Piloto<br/>1 sem"]
